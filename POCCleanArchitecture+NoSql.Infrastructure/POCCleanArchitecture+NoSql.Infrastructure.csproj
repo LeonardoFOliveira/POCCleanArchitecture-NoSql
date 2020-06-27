@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>POCCleanArchitecture_NoSql.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POCCleanArchitecture+NoSql.ApplicationCore\POCCleanArchitecture+NoSql.ApplicationCore.csproj" />
+  </ItemGroup>
+
+</Project>
