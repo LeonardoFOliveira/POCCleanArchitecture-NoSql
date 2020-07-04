@@ -16,18 +16,22 @@ Implementeação de uma poc com o intuito de criar uma arquitetura no modelo "Cl
 
 3. Abrir um "cmd" e executar o seguinte comando:
    > mongod --dbpath <data_directory_path>
+
 Em que <data_directory_path> é o caminho do diretório criado no passo anterior.
 Esse comando fará com que "suba" o MongoDB.
 
 4. Abrir um novo "cmd" e executar o seguinte comando:
    > mongo
+
 Esse comando fará conexão do banco de dados via terminal.
 
 5. Executar o seguinte comando:
    > use POCCleanArchitecture+NoSql
+
 Esse comando acessará o database apontado na poc, mas o mais importante, criará o mesmo caso ainda não exista.
 
 6. Executar o seguinte comando:
     > db.createCollection('PDIs')
+
 Esse comando criará a coleção apontada na poc.
       
