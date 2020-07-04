@@ -1,5 +1,5 @@
 # POC Clean Architecture + NoSql
-Implementeação de uma poc com o intuito de criar uma arquitetura no modelo "Clean Architecture" para .Net Core 3.1 em conjunto com a utilização de um banco de dados NoSQL, no caso MongoDB.
+Implementação de uma poc com o intuito de criar uma arquitetura no modelo "Clean Architecture" para .Net Core 3.1 em conjunto com a utilização de um banco de dados NoSQL, no caso MongoDB.
 
 ## Passos para a integração com o banco (MongoDB)
 É necessário que se tenha a estrutura para o acesso ao banco, sendo assim, a execução dos passos a seguir que garantem isso.
